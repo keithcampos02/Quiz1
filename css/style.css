@@ -1,0 +1,53 @@
+html{
+    background-color: white;
+}
+
+body{
+background-color: white;
+width:600px ;
+height: 6000px;
+
+
+}
+
+
+
+#contenedor{
+    width: 100%;
+    padding-top: 25px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border: 1px;
+    border-top: dashed color( red );
+    border-bottom:  dashed color( green); 
+    border-left:  dotted color orange; 
+    border-right: dotted color(  red );
+
+}
+
+.primero{
+
+    width: 30%;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: solid red;
+
+}
+
+
+.segundo{
+
+    width: 30%;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: solid red;
+
+
+
+
+}
